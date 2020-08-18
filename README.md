@@ -1,4 +1,4 @@
-### Hello! I’m Md Mehedi Hasan. Here is what i'm working on 👋
+### Hello! I’m Ashikur Rahman Fahim. Here is what i'm working on 👋
 
 ## I'm a YouTuber, Student, Tech Geek, and Good Learner!
 I have rich experience in IT Security , Development and Digital Marketing, also I am good at Cyber Security. I would love to talk with you about my uniqueness.
@@ -14,10 +14,10 @@ I have rich experience in IT Security , Development and Digital Marketing, also 
 ### Connect with me:
 
 [<img align="left" alt="mehedishakeel.online" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://mehedishakeel.online)
-[<img align="left" alt="sstectutorials | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](youtube.com/sstectutorials)
-[<img align="left" alt="mehedihshakeel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/mehedihshakeel)
-[<img align="left" alt="mehedishakeel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mehedishakeel)
-[<img align="left" alt="mehedihshakeel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](http://instagram.com/mehedihshakeel/)
+[<img align="left" alt="roadhunter | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](youtube.com/roadhunter)
+[<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/)
+[<img align="left" alt="mehedishakeel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ashikur-rahman-fahim-605074140/)
+[<img align="left" alt="ashikurrahman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/fahimrahman443/)
 
 <br />
 
@@ -33,7 +33,7 @@ I have rich experience in IT Security , Development and Digital Marketing, also 
 - [Tech Gadgets & Device Review](https://www.youtube.com/watch?v=MCRQueG3OQM&list=PLoAx5AQlvczUHvWw5nvrgI-KxKQSWu8AS)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/sstectutorials)
+➡️ [more videos...](https://youtube.com/roadhunter)
 
 ---
 
@@ -42,12 +42,12 @@ I have rich experience in IT Security , Development and Digital Marketing, also 
 <details>
   <summary>:zap: Github Stats</summary>
 
- [![Mehedi Shakeel's github stats](https://github-readme-stats.vercel.app/api?username=mehedihshakeel)](https://github.com/mehedihshakeel/github-readme-stats)
+ [![Ashikur Rahamn Fahim github stats](https://github-readme-stats.vercel.app/api?username=ashikurrahmanfahim)](https://github.com/ashikurrahmanfahim/github-readme-stats)
 
 </details>
 
-[website]: https://mehedishakeel.online
-[twitter]: https://twitter.com/mehedi_shakeel
-[youtube]: https://youtube.com/sstectutorials
-[instagram]: https://instagram.com/mehedi_shakeel
+[website]: https://
+[twitter]: https://
+[youtube]: https://youtube.com/roadhunter
+[instagram]:https://www.instagram.com/fahimrahman443/
 [linkedin]: https://linkedin.com/in/mehedishakeel
